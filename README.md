@@ -29,8 +29,8 @@
 
 ### **Technologies used**
    When developing the bot, I used:
-      * [PHP extension that allows you to trade on Binance](https://github.com/jaggedsoft/php-binance-api)
-      * PHP programming language
+   * [PHP extension that allows you to trade on Binance](https://github.com/jaggedsoft/php-binance-api)
+   * PHP programming language
 
 
 
@@ -40,11 +40,11 @@
 ### **История торговли**
    (суммы, указанные ниже - в долларах)
    ** 10 сентября
-      * вечер - 41.118772
+   вечер - 41.118772
    ** 11 сентября
-      * утро - 41.118772
-      * вечер - 41.4364
-   * 12 сентября
+   утро - 41.118772
+   вечер - 41.4364
+   ** 12 сентября
       утро - 41.67
       вечер - 41.48
    * 13 сентября
