@@ -3,29 +3,14 @@
    This bot was developed by me to automate the process of trading cryptocurrencies on the exchange. At the moment, the simplest strategy is implemented: buy cheaper, sell more    expensive. If the price is below the minimum for 24 hours, the bot buys the coin. If the price is higher than the purchase price by a certain value, then it sells. This          strategy behaves well on coins jumping between certain prices and is bad with a constant drop/increase in the price of the coin.
 ### **Trading history**
    (the amounts shown below are in dollars)
-   * September 10
-      evening - 41.118772
-   * September 11
-      morning - 41.118772
-      evening - 41.4364
-   * September 12
-      morning - 41.67
-      evening-41.48
-   * September 13
-      morning - there were no deals
-      evening - 41.66
-   * September 14
-      morning - 41.728
-      evening-41.777
-   * September 15
-      morning - 41.847
-      evening-no deals
-   * September 16
-      morning - there were no deals
-      evening - there were no deals
-   * September 17
-      morning - 42.088
-      evening-42.17
+   * September 10: evening - 41.118772
+   * September 11:  morning-41.118772 || evening - 41.4364
+   * September 12: morning-41.67 || evening-41.48
+   * September 13: morning - no deals || evening-41.66
+   * September 14: morning-41.728 || evening - 41.777
+   * September 15: morning-41.847 || evening - no deals
+   * September 16: morning - no deals || evening-no deals
+   * September 17: morning-42.088 || evening - 42.17
 
 ### **Technologies used**
    When developing the bot, I used:
